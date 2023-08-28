@@ -12,3 +12,6 @@ grocery_bill = 77.64
 rent_bill = 1234.56
 phone_bill = 124.82
 
+enjoying_mod0 = true
+feeling_good = true
+likes_ranch = false
