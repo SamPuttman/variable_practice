@@ -15,3 +15,11 @@ phone_bill = 124.82
 enjoying_mod0 = true
 feeling_good = true
 likes_ranch = false
+
+student_name = "Ronald McDonald"
+student_city = "McDonaldland"
+favorite_game = "Life"
+
+puts student_name
+puts student_city
+puts favorite_game
